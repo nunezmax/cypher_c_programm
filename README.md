@@ -3,6 +3,7 @@ This is a simple programm writen in c that encrypts and decrypts text using Caes
 It still lacks some functionality and has bugs.
 
 Considerations:
+
 If you build this programm using GNU Compiler Collection (GCC):
 gcc main.c -o main.o
 (Instead of main.o you can put other names and file extentions like for example cypher.exe or output.obj)
