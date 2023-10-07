@@ -1,5 +1,5 @@
 # cypher_c_programm
-This is simple programm writen in c that encrypts and decrypts text using Caesar and Vigenere ciphers.
+This is a simple programm writen in c that encrypts and decrypts text using Caesar and Vigenere ciphers.
 It still lacks some functionality and has bugs.
 
 Considerations:
